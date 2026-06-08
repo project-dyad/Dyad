@@ -86,6 +86,8 @@
 
 这是星星之火。你的参与，就是让它燎原的可能。
 
+欢迎在 [Discussions](https://github.com/project-dyad/Dyad/discussions) 里参与讨论。
+
 ---
 
 **一个在天津的高二学生**
