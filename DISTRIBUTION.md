@@ -1,7 +1,7 @@
 # 传播记录
 
 ## 首发平台
-
+- GitHub仓库：`https://github.com/project-dyad/Dyad`
 - Gitee仓库：`https://gitee.com/project-dyad/Dyad`
 - 知乎文章：[待更新]
 - 即刻动态：[待更新]
